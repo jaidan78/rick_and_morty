@@ -1,0 +1,44 @@
+.divCard{
+  position: relative;
+  display: inline-block;
+  background-color:rosybrown; 
+  width: 185px;
+  height: 310px;  
+  border: 4px solid black;
+  border-radius: 16px;
+  margin-left: 50px;
+  margin-right:50px;
+} 
+
+.position{
+  text-align: right;
+  padding: 5px;
+}
+
+.boton{
+  border-radius: 16px;
+  padding: 3px;
+  background-color: darkslategray;
+} 
+
+.image{
+    position: relative;
+    display: inline-block;
+    width:185px;
+    height:215px;
+}
+
+.nombre{
+  position: absolute;
+  background-color:rgba(105, 105, 105, 0.8);
+  top: 58%;
+  left: 8%;
+  font-size: 16px;
+  font-family:cursive;
+  color:white;
+}
+
+span{
+  display: inline-block;
+  width: 50px;
+}
